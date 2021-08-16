@@ -11,4 +11,4 @@ IBAN: IT59E0503411795000000435088<br>
 CAUSALE: DONAZIONE
 </details>
 <br>
-Grazie!
+Grazie ❤
