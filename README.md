@@ -1,2 +1,2 @@
-# bollettini-coronavirus.github.io
+# dona-bollettinicv.github.io
 sito per donazioni
