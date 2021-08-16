@@ -1,6 +1,6 @@
 Puoi fare la donazione con
 
-▶ [PayPal](http://paypal.me/turattag)
+[PayPal](http://paypal.me/turattag)
 
 <details>
 <summary>Bonifico</summary>
