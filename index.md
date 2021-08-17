@@ -14,7 +14,7 @@ CAUSALE: DONAZIONE
 <h1></h1>
 
 <p align="center">
-  <a href="https://t.me/BollettiniCoronaVirus">
+  <a href="https://t.me/s/BollettiniCoronaVirus">
     <img src="/images/telegram.png" width="33">
   </a>&nbsp;
   <a href="https://twitter.com/BollettiniCovid">
