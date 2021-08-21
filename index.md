@@ -1,4 +1,5 @@
-Ciao! Sono Gianni uno studente, ho creato Bollettini CoronaVirus per condividere i dati del contagio in Italia e nel Mondo. Se vuoi puoi supportare il mio lavoro offrendomi un caffè, grazie ❤
+Ciao! Sono Gianni uno studente, ho creato Bollettini CoronaVirus per condividere i dati del contagio in Italia e nel Mondo.<br>
+Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
 
 [PayPal](http://paypal.me/turattag)
 
