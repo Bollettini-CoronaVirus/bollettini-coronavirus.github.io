@@ -1,3 +1,6 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+</head>
 Ciao! Sono Gianni uno studente, ho creato <b>Bollettini CoronaVirus</b> per condividere i dati del contagio in Italia e nel Mondo.<br>
 Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
 
