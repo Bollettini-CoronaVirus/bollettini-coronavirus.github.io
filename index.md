@@ -1,31 +1,33 @@
 <head>
-   <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+   <link rel="icon" type="image/x-icon" sizes="any" href="favicon.png">
 </head>
-Ciao! Sono Gianni uno studente, ho creato <b>Bollettini CoronaVirus</b> per condividere i dati del contagio in Italia e nel Mondo.<br>
-Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
+<body>
+   Ciao! Sono Gianni uno studente, ho creato <b>Bollettini CoronaVirus</b> per condividere i dati del contagio in Italia e nel Mondo.<br>
+   Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
 
-[PayPal](http://paypal.me/turattag)
+   [PayPal](http://paypal.me/turattag)
 
-<details>
-<summary>Bonifico</summary>
-BENEFICIARIO: GIANNI TURATTA<br>
-IBAN: IT59E0503411795000000435088<br>
-CAUSALE: DONAZIONE
-</details>
+   <details>
+   <summary>Bonifico</summary>
+   BENEFICIARIO: GIANNI TURATTA<br>
+   IBAN: IT59E0503411795000000435088<br>
+   CAUSALE: DONAZIONE
+   </details>
 
-<h1></h1>
+   <h1></h1>
 
-<p align="center">
-  <a href="https://t.me/s/BollettiniCoronaVirus">
-    <img src="/images/telegram.png" width="33">
-  </a>&nbsp;
-  <a href="https://twitter.com/BollettiniCovid">
-    <img src="/images/twitter.png" width="33">
-  </a>&nbsp;
-  <a href="https://www.facebook.com/Bollettini.CoronaVirus/">
-    <img src="/images/fb.svg" width="33">
-  </a>&nbsp;
-  <a href="mailto:bollettinicv@gmail.com">
-    <img src="/images/email.svg" width="33">
-  </a>
-</p>
+   <p align="center">
+     <a href="https://t.me/s/BollettiniCoronaVirus">
+       <img src="/images/telegram.png" width="33">
+     </a>&nbsp;
+     <a href="https://twitter.com/BollettiniCovid">
+       <img src="/images/twitter.png" width="33">
+     </a>&nbsp;
+     <a href="https://www.facebook.com/Bollettini.CoronaVirus/">
+       <img src="/images/fb.svg" width="33">
+     </a>&nbsp;
+     <a href="mailto:bollettinicv@gmail.com">
+       <img src="/images/email.svg" width="33">
+     </a>
+   </p>
+</body>
