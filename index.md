@@ -3,12 +3,10 @@ Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
 
 <!-- [PayPal](http://paypal.me/turattag) -->
 
-<details>
-<summary>Bonifico</summary>
+• Bonifico
 BENEFICIARIO: GIANNI TURATTA<br>
 IBAN: IT86P0306912366100000010574<br>
 CAUSALE: DONAZIONE
-</details>
 
 <h1></h1>
 
