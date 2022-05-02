@@ -6,7 +6,7 @@ Se vuoi supportare il mio lavoro puoi offrirmi un caffè, grazie ❤
 <details>
 <summary>Bonifico</summary>
 BENEFICIARIO: GIANNI TURATTA<br>
-IBAN: IT59E0503411795000000435088<br>
+IBAN: IT86P0306912366100000010574<br>
 CAUSALE: DONAZIONE
 </details>
 
